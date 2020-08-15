@@ -1,4 +1,4 @@
-Java Tutorial
+Java Tutorial.
 
 Tutorial provided 동빈나
 동빈나 Official Youtube channel
